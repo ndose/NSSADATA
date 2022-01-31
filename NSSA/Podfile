@@ -1,0 +1,5 @@
+
+  target 'NssaTests' do
+    inherit! :search_paths
+
+end
